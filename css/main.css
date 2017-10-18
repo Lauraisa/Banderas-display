@@ -1,0 +1,86 @@
+.part1 .orange {
+  background-color: rgba(230, 167, 26, 0.95);
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+
+  }
+  .part1 .black {
+    background-color: #1f1a1a;
+    color:rgb(222, 233, 232);
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+
+    }
+.part2 .orange {
+    background-color: rgba(230, 167, 26, 0.95);
+    width: 12rem;
+    height: 9rem;
+    margin: 3rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    display: block;
+}
+
+.part2 .black {
+  background-color: #1f1a1a;
+  width: 12rem;
+  height: 9rem;
+  color:rgb(222, 233, 232);
+  margin: 3rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  display: block;
+}
+
+.part3 .orange {
+    background-color: rgba(230, 167, 26, 0.95);
+    width: 12rem;
+    height: 9rem;
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+
+.part3 .black {
+  background-color: #1f1a1a;
+  width: 12rem;
+  height: 9rem;
+  color:rgb(222, 233, 232);
+  margin: 2rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  display: inline-block;
+}
+
+.part4 .orange {
+    background-color: rgba(230, 167, 26, 0.95);
+    width: 60px;
+    height: 20px;
+    margin: 15px 30px;
+    padding: 14px 20px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+.part4 .orange1 {
+    background-color: rgba(230, 167, 26, 0.95);
+    width: 150px;
+    height: 20px;
+    margin: 15px 30px;
+    padding: 14px 20px;
+    border: 1px solid #ccc;
+    display: inline-block;
+
+  }
+.part4 .black  {
+  background-color: #1f1a1a;
+  width: 12px;
+  height: 20px;
+  margin: 15px 5px;
+  padding: 14px 20px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  color:rgb(222, 233, 232);
+}
