@@ -4,22 +4,8 @@ Para ello mostraremos las siguientes imagenes a replicar.
 ***
 1. Primera imagen a replicar.
 
-<<<<<<< HEAD
-  ![Imagen1](https://lauraisa.github.io/Banderas-display/gh-pages/imagen/parte1.png)
-
-2. Segunda imagen a replicar.
-
-  ![Imagen 2](https://lauraisa.github.io/Banderas-display/gh-pages/imagen/parte2.png)
-
-3. Tercera imagen a replicar.
-
-  ![Imagen 3](https://lauraisa.github.io/Banderas-display/gh-pages/imagen/parte3.png)
-
-4. Cuarta imagen a replicar.
-
-  ![Imagen 4](https://lauraisa.github.io/Banderas-display/gh-pages/imagen/parte4.png)
-=======
-    ![Imagen 1](https://fotos.subefotos.com/8157f58d3d2dcfcf689ec56554097266o.png)  
+![Imagen 1](https://fotos.subefotos.com/8157f58d3d2dcfcf689ec56554097266o.png)
+    
 ***
 2. Segunda imagen a replicar.    
 
@@ -38,4 +24,4 @@ Para ello mostraremos las siguientes imagenes a replicar.
 + Cuenta con una carpeta `imagen` en donde estarán los modelos a replicar.
 + La carpeta `css` dentro de ella un archivo `main.css`.
 + Un archivo `index.html`.
->>>>>>> 176a335e1610c8396454dbee5a1112d601f7fda9
+
